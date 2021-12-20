@@ -1,0 +1,50 @@
+operators 
+
+a+b=c
+a=operand 
++/= -operator
+
+types-
+arithmetic =perform mathematical calculation 
+addition /subtraction/ multiply/ division/modulus/exponent(**power)/floor division (//not to receive value in point)
+
+
+relational operators- give answer in true or false
+
+greater than>/greater than equal to>=/smaller than</smaller than equal to<=/equal to==/not equal to!=
+
+Assignment operator- used to asign values
+
+=/+=/-=/*=//=/%=
+
+logical operator- AND/OR/NOT
+
+AND-all are true 
+OR-any one can be true reture false if no condition is true
+NOT- reverse the output of condition/t->f/f->t 
+
+identity operator-determine whether value belong to certain class or type
+type( ) -function
+is/isnot
+
+member ship operator-
+in/notin
+
+
+control statement - execution line by line based on condition control the flow of execution
+
+selection(if )/loopinf statement(while/for)
+**select the statement based on condition is called selection whether the statement is executed or not its bi-directional
+
+
+
+
+
+
+
+**or repatative work we use loop execute a block of statement till n times it keeps executing till the condition is not comes true
+
+
+
+
+
